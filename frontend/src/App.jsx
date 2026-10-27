@@ -1,4 +1,3 @@
-
 import { useEffect, useState } from 'react';
 
 const API = 'http://localhost:5000/api/recipes';
